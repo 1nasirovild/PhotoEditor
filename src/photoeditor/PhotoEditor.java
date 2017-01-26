@@ -1,5 +1,5 @@
 
-// Name:Ildar Nasirov
+// Name: Ildar Nasirov
 // Project name: Black and white Photo Editor
 // Version: 1.00
 
